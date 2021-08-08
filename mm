@@ -1,5 +1,5 @@
 {
-  "GuideData": {
+  "GD": {
     "AdsController": 
       {
         "NetworkAds": "admob",
