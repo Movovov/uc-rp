@@ -1,0 +1,103 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "NetworkAds": "admob",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+        "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+		
+        "ImageBanner": false,
+        "ImageBannerImg" : "",
+	"ImageBannerURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+       {
+        "title": "FF Diamonds",
+        "image": "https://cdn.pixabay.com/photo/2020/03/11/02/29/pubg-4920753_960_720.jpg",
+        "color": "#7A002A",
+        "text_size": "18",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "\n\n⚡ Taking up online surveys is one of the easiest ways to get Free Fire diamonds for free. We reward users for completing online surveys with Google PlayStore credits, which can further be used to purchase diamonds.",
+	"isNative": false,
+        "background": "#8BC34A"
+      },
+      {
+        "title": "Best Guns In FFire",
+        "image": "https://www.maxpixel.net/static/photo/1x/Pubg-Mobile-Pubg-Mascot-Mascot-Pubg-Logo-4800858.png",
+        "color": "#7A002A",
+        "text_size": "18",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "\n\n Depends a lot upon your playing style. Every gun is powerful if used appropriately.\n\n If you are someone who prefers to keep his distance from the enemy then my recommendation for you would be either M60 or Famas or AK(only with bipod).\n\n Many people are not comfortable with Famas as you have to keep on tapping. I personally find it a very devastating gun of the game.\n\n If you are someone who likes to handle the front. Then short range combat guns that are most supreme and devastating are:\n\n⚡ SPAS - Although the damage is less than M105 but the range and rate of fire is far superior.\n\n⚡ MP40 - Offers the fastest rate of fire, just be careful about the magazine clip while using it.\n\n⚡ M1014 - Although it is the slowest gun in the game, it is also the most powerful one. One point-blank clean hit and the opponent goes down.\n\nThen comes the legendary guns from the airdrops:\n\n⚡ Groza - Definitely the best AR gun in the game.\n\n⚡ AWM - For Sniper\n\n⚡ Dragunov -AR sniper which works better than SKS.\n\n⚡ Grenade Launcher - With one shot you can take out the whole squad but be careful when you miss or be cautious that you don’t blast it too close to yourself. It is a double-edged sword.",
+	"isNative": false,
+        "background": "#8BC34A"
+      },
+      {
+        "title": "Featured: Tips & Tricks",
+        "image": "https://cdn.pixabay.com/photo/2020/11/10/15/51/bear-5730216_960_720.png",
+        "color": "#7A002A",
+        "text_size": "18",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "\n\n⚡ whenever you get chance, try to capture the higher position, the best time to capture higher grounds are when the safe zone is shrinking, and there are fewer people remaining in the game.\n\n⚡ Remember how wolf survive in the jungle?They stay together and hunt together. So be with your team and keep talking so that you can help them.\n\n⚡ Eat Mushroom to get extra EP or Life\n\n⚡ Explode the red cylinder to kill an enemy instantly and Explode the Blue Cylinder to create Smog\n\n⚡ Use granades and landmines when you are being followed or surrounded by enemies.It can be very helpful because many do not use them.They are underrated.\n\n⚡ Upgrade weapons by applying skins.\n\n⚡ When reviving the knocked teammate, you can use Medkit and heal at the same time.",
+	"isNative": false,
+        "background": "#8BC34A"
+      },
+      {
+        "title": "Tips & Tricks: Moving Targets & mods",
+        "image": "https://www.maxpixel.net/static/photo/1x/Gun-Counter-Strike-Computer-Game-Pubg-Tommy-3906571.png",
+        "color": "#7A002A",
+        "text_size": "18",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "\n\n⚡ While swimming you can switch weapons to move faster. You cannot use weapons underwater and may get shots from enemies. Therefore, when you need to cross the river, you should practice this tip to increase your swimming speed.\n\n⚡ When the enemy fires at you with a shotgun, you can crouch to avoid the bullet, then fire back at him while he is reloading ammo for the next shot.Although shotguns cause great damage to players, these weapons can release only one bullet per shot. Then, it takes this gun a short period to reload ammo. Exploiting this disadvantage, you can avoid being knocked down by shotguns by crouching.\n\n⚡ Playing clash squad everyday.This mode is like a training room.Playing Clash Squad is one of the best pro tips for free fire. It’s a good way to practice shooting and creating a quick gloo wall in this game. Lots of pro players improve their game a lot by playing Clash Squads every day.",
+        "isNative": false,
+        "background": "#8BC34A"
+      },
+      {
+        "title": "Tips & Tricks: Pro Strategies",
+        "image": "https://www.maxpixel.net/static/photo/1x/Pubg-Gun-Game-Ump-Fortnite-Ammunition-Ump9-5675038.jpg",
+        "color": "#7A002A",
+        "text_size": "18",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "\n\n⚡ Do Not Open Your Parachute. Let it open by itself or else you will be in air while other can target you from ground.\n\n⚡ Stay away from combat in the beginning.And do not chase the passersby.\n\n⚡ Avoid vehicles in solo_its useful when playing on a team. Because you can shoot while other is driving.\n\n⚡ At first concentrate on finding Armor than weapons.\n\n⚡ Do not rush for Airdrops first.Instead go towards it and prepare an ambush and take some headshots.If you want to survive in long run don't be greedy.\n\n⚡ If you managed to reach the end focus on medkits than finding new loots\n\n⚡ Play with headphones_you can't miss the sound.\n\n⚡ Stay in motion but do not run at end time.\n\n⚡ Remember you do not have to enter houses to check the rooms_you can do it by looking through windows\n\n⚡ Use mini maps to look if someone near by shooting.If yes then it's time for ambush.\n\n⚡ Your competitors do not admire your cool style or outfits.So focus on character rather than focusing on cosmetics .",
+	"isNative": false,
+        "background": "#8BC34A"
+      },
+      {
+        "title": "Featured FF Guide 2021",
+        "image": "https://www.maxpixel.net/static/photo/1x/Mascot-Pubg-Character-Pubg-Mobile-Character-5379783.png",
+        "color": "#7A002A",
+        "text_size": "18",
+        "isLink": false,
+        "link_title": "",
+        "setLink": "",
+        "image_link": "",
+        "text": "\n\n⚡ know your character strength_Maximum pro players uses Miguel character and give them Kelly and Kia power which make the character an ultimate combo.\n\n⚡ always use Pan with you for shielding from firing coming from behind you.\n\n⚡ Change your plan according to game.‘They told me I couldn’t, that’s why I did’.\n\n⚡ Check occassionally for useless items in your bagpack\n\n⚡ check the time left for the safe zone to shrink and then dash for the safe zone.\n\n⚡ For firing from ambush prefer trees than cars.\n\n⚡ use glue ball effectively to create a temporary wall to save your life and your teammate life.\n\n⚡ Use grande when surrounded by enemies.",
+	 "isNative": false,
+        "background": "#8BC34A"
+      }
+    ]
+  }
+}
