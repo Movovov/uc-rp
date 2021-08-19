@@ -4,14 +4,14 @@
       {
         "NetworkAds": "facebook",
 
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-7078905458736134/8504621183",
+        "InterstitialAdmob": "ca-app-pub-7078905458736134/9137926444",
+        "NativeAdmob": "ca-app-pub-7078905458736134/8300800579",
 
-        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
-        "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+        "BannerFacebook": "223394769792116_223396316458628",
+        "InterstitialFacebook": "223394769792116_223397179791875",
+        "NativeFacebook": "223394769792116_223397333125193",
+        "NativeFacebookSingle": "223394769792116_223397486458511",
 		
         "ImageBanner": false,
         "ImageBannerImg" : "https://cdn.pixabay.com/photo/2012/04/05/01/39/balloon-25734__340.png",
