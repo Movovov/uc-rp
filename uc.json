@@ -2,9 +2,9 @@
   "GuideData": {
     "AdsController": {
       "NetworkAds": "mediation",
-      "BannerAdmob": "ca-app-pub-7161646055510540/4590682510",
-      "InterstitialAdmob": "ca-app-pub-7161646055510540/3634013433",
-      "NativeAdmob": "ca-app-pub-7161646055510540/5580330558",
+      "BannerAdmob": "ca-app-pub-7078905458736134/3560056894",
+      "InterstitialAdmob": "ca-app-pub-7078905458736134/6629358773",
+      "NativeAdmob": "ca-app-pub-7078905458736134/4350394384",
       "BannerFacebook": "256890396080824_350311013405428",
       "InterstitialFacebook": "256890396080824_350316806738182",
       "NativeFacebook": "256890396080824_350319403404589",
