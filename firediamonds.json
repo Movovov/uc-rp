@@ -20,7 +20,7 @@
       },
 
     "items": [
-       
+       { "title": "Support us", "image": "https://cdn.pixabay.com/photo/2016/03/11/08/02/usa-1249880_640.jpg", "color": "#7A002A", "text_size": "16", "isLink": true, "link_title": "Rate 5🌟", "setLink": "https://play.google.com/store/apps/details?id=com.mission_sun.uc_rp", "image_link": "", "text": "\n\n⚡This app is developed just by one developer, and it is still under improvement, I appologies for any errors or bugs and I promiss every unwanted error will be fixed as soon as possible \n\n⚡ Please support me by a 5 stars rating and a beautiful comment ❤ ", "isNative": false, "background": "#8BC34A" },
       {
         "title": "Best Guns In FFire",
         "image": "https://www.maxpixel.net/static/photo/1x/Pubg-Mobile-Pubg-Mascot-Mascot-Pubg-Logo-4800858.png",
