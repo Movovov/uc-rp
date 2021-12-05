@@ -9,7 +9,7 @@
       "InterstitialFacebook": "256890396080824_350317166738146",
       "NativeFacebook": "256890396080824_422482939521568",
       "NativeFacebookSingle": "256890396080824_422481482855047",
-      "ImageBanner": false,
+      "ImageBanner": true,
       "ImageBannerImg": "https://media1.giphy.com/media/4eT2C0Vql9wgyi2XNj/giphy.gif",
       "ImageBannerURL": "https://viral782.com/list/435514"
     },
@@ -28,19 +28,7 @@
         "isNative": false,
         "background": "#8BC34A"
       }, 
-      {
-        "title": "UC & RP",
-        "image": "https://cdn.pixabay.com/photo/2021/08/24/15/00/pubg-mobile-6570917_960_720.jpg",
-        "color": "#7A002A",
-        "text_size": "16",
-        "isLink": true,
-        "link_title": "Get UC",
-        "setLink": "https://viral782.com/list/435514",
-        "image_link": "",
-        "text": "\n\n⚡ Taking up online surveys & completing offers is one of the easiest ways to get Free UC & RP for free. We make a giveaway every week for 20 to 30 of the top users with the most points, you can get points by completing offers. \n\n⚡ We reward users for completing online surveys with Google PlayStore credits, which can further be used to purchase UC & RP!",
-        "isNative": false,
-        "background": "#8BC34A"
-      },
+      
       {
         "title": "Tips & Tricks: Part 1",
         "image": "https://www.maxpixel.net/static/photo/1x/Pubg-Mobile-Pubg-Mascot-Mascot-Pubg-Logo-4800858.png",
@@ -103,6 +91,19 @@
         "setLink": "https://viral782.com/list/435514",
         "image_link": "",
         "text": "\n\n⚡ Aim Over Long Distances \n The distance travelled by each gun's bullet is different (muzzle speeds). For exampl SMG's bullets can go so far, unlike snipers or assault riffles ; So the right choice is to choise a sniper or an assault riffle for long distace; assault riffles ar really good in long distances while they're on Single mode, using a higher scope as x4 or x6 \n This is how to use the 4X scope at different ranges. ",
+        "isNative": false,
+        "background": "#8BC34A"
+      },
+      {
+        "title": "UC & RP",
+        "image": "https://cdn.pixabay.com/photo/2021/08/24/15/00/pubg-mobile-6570917_960_720.jpg",
+        "color": "#7A002A",
+        "text_size": "16",
+        "isLink": true,
+        "link_title": "Get UC",
+        "setLink": "https://viral782.com/list/435514",
+        "image_link": "",
+        "text": "\n\n⚡ Taking up online surveys & completing offers is one of the easiest ways to get Free UC & RP for free. We make a giveaway every week for 20 to 30 of the top users with the most points, you can get points by completing offers. \n\n⚡ We reward users for completing online surveys with Google PlayStore credits, which can further be used to purchase UC & RP!",
         "isNative": false,
         "background": "#8BC34A"
       },
