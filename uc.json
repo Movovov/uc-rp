@@ -1,13 +1,13 @@
 {
   "GuideData": {
     "AdsController": {
-      "NetworkAds": "admob",
+      "NetworkAds": "mediation",
       "BannerAdmob": "ca-app-pub-7078905458736134/2245463421",
       "InterstitialAdmob": "ca-app-pub-7078905458736134/8922552419",
       "NativeAdmob": "ca-app-pub-7078905458736134/7365928166",
       "BannerFacebook": "256890396080824_350311013405428",
       "InterstitialFacebook": "256890396080824_350317166738146",
-      "NativeFacebook": "256890396080824_422481329521729",
+      "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
       "NativeFacebookSingle": "256890396080824_422481482855047",
       "ImageBanner": true,
       "ImageBannerImg": "https://media1.giphy.com/media/4eT2C0Vql9wgyi2XNj/giphy.gif",
