@@ -1,7 +1,7 @@
 {
   "GuideData": {
     "AdsController": {
-      "NetworkAds": "admob",
+      "NetworkAds": "mediation",
       "BannerAdmob": "ca-app-pub-7078905458736134/2245463421",
       "InterstitialAdmob": "ca-app-pub-7078905458736134/8922552419",
       "NativeAdmob": "ca-app-pub-7078905458736134/7365928166",
@@ -11,7 +11,7 @@
       "NativeFacebookSingle": "256890396080824_422481482855047",
       "ImageBanner": true,
       "ImageBannerImg": "https://media1.giphy.com/media/4eT2C0Vql9wgyi2XNj/giphy.gif",
-      "ImageBannerURL": "https://media1.giphy.com/media/4eT2C0Vql9wgyi2XNj/giphy.gif"
+      "ImageBannerURL": "https://viral782.com/list/435514"
     },
     "items": [
      
