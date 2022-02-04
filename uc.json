@@ -11,7 +11,7 @@
       "NativeFacebookSingle": "256890396080824_422481482855047",
       "ImageBanner": true,
       "ImageBannerImg": "https://media1.giphy.com/media/4eT2C0Vql9wgyi2XNj/giphy.gif",
-      "ImageBannerURL": "https://viral782.com/list/435514"
+      "ImageBannerURL": ""
     },
     "items": [
      
@@ -20,7 +20,7 @@
         "image": "https://cdn.pixabay.com/photo/2020/10/22/06/22/ump-5675038_960_720.jpg",
         "color": "#7A002A",
         "text_size": "16",
-        "isLink": true,
+        "isLink": false,
         "link_title": "Rate 5🌟",
         "setLink": "https://play.google.com/store/apps/details?id=com.mission_sun.uc_rp",
         "image_link": "",
@@ -112,7 +112,7 @@
         "image": "https://cdn.pixabay.com/photo/2016/03/11/08/02/usa-1249880_640.jpg",
         "color": "#7A002A",
         "text_size": "16",
-        "isLink": true,
+        "isLink": false,
         "link_title": "Buy Me A Coffee ☕",
         "setLink": "https://www.buymeacoffee.com/missionsun",
         "image_link": "",
