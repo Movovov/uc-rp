@@ -1,149 +1,104 @@
 {
-  "GuideData": {
-    "AdsController": 
+  "DCell": {
+    "Ads": 
       {
-        "NetworkAds": "mediation",
+        "AdsCompany": "mediation",
 
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+        "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+        "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
 
-        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
-        "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+        "FbBanner": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "FbInterstitial": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "FbNative": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+        "FbLittleNative": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
 		
-        "ImageBanner": false,
-        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-        "ImageBannerURL" : "https://www.google.com"
+        "CpaImage": true,
+        "CpaImageImg" : "https://media.giphy.com/media/9E7kUhnT9eDok/giphy.gif",
+        "CpaURL" : "https://www.google.com"
 		
       },
 
-    "items": [
+    "class": [
       {
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-        "color": "#000000",
-        "text_size": "25",
-        "isLink": true,
-		"link_title": "Get Coins",
+        "titre": "Dark Meadow: The Pact",
+        "photo":  "https://cdn.pixabay.com/photo/2020/10/22/06/22/ump-5675038_960_720.jpg",
+        "color": "#7A002A",
+        "txt_size": "18",
+        "link": true,
+		"link_titre": "Get Coins",
 		"setLink": "https://www.google.com",
-        "image_link": "https://www.google.com",
-        "text": "sdsdasdsdasd ssa dadas dasd",
-        "isNative": false,
-		"background": "#AEDEE4"
+        "photo_link": "https://www.google.com",
+        "txt": "\n\n⚡ If you are one of many new players taking their first steps in the unforgiving universe of Battle Royale, we invite you to discover our guide which will allow you to be more efficient on the field and will certainly serve you to win your games and finish in the TOP 1. \n\n⚡ Hiding out inbuildings might let you survive and be on the Top 10, but this way you will not get yourself improved. \n\n⚡ The trouble is that PUBG is surprisingly complex. There are a lot of details to know and learn along the way to be a pro player. Fortunately, we have spent some enough time on the game to find some Battlegrounds advanced tactics, tips, tricks, and strategies to help you on your mission for a chicken dinner.\n\n⚡  Please support us by a 5 stars rating and a beautiful comment ❤ ",
+        "ifNat": false,
+		"ground": "#8BC34A"
       },
       {
-        "title": "The Old 2",
-        "image": "https://usercontent1.hubstatic.com/8037694.jpg",
-		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
+        "titre": "The Old 2",
+        "photo": "https://usercontent1.hubstatic.com/8037694.jpg",
+		"color": "#7A002A",
+        "txt_size": "18",
+        "link": false,
+		"link_titre": "",
 		"setLink": "",
-        "image_link": "",
-        "text": "\n \n Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#AEDEE4"
+        "photo_link": "",
+        "txt": "\n\n⚡ Practice makes you perfect The best way to improve aiming is practising as many weapons as you canto familiarize yourself with them. Try to hit the moving targets. \n\n⚡ place your crosshair properly and focus very necessary tips while aiming; it's a time of focus ; it might seem hard at the beginning but after one week or two of practicing it, you will notcie a big difference and how pro you really are ! ",
+        "ifNat": false,
+		"ground": "#8BC34A"
       },
       {
-        "title": "Call of Cthulhu: Wasted Land ",
-        "image": "https://usercontent1.hubstatic.com/6961608.jpg",
+        "titre": "Call of Cthulhu: Wasted Land ",
+        "photo": "https://usercontent1.hubstatic.com/6961608.jpg",
 		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
+        "txt_size": "25",
+        "link": false,
+		"link_titre": "",
 		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#AEDEE4"
+        "photo_link": "",
+        "txt": "Dark Meadow : The Pact",
+        "ifNat": false,
+		"ground": "#00FF00"
       },
       {
-        "title": "Dead Space Android",
-        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
+        "titre": "Dead Space Android",
+        "photo": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
 		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
+        "txt_size": "25",
+        "link": false,
+		"link_titre": "",
 		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#AEDEE4"
+        "photo_link": "",
+        "txt": "Dark Meadow : The Pact",
+        "ifNat": false,
+		"ground": "#00FF00"
       },
       {
-        "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
+        "titre": "Bloody Mary",
+        "photo": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
 		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
+        "txt_size": "25",
+        "link": false,
+		"link_titre": "",
 		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#AEDEE4"
+        "photo_link": "",
+        "txt": "Dark Meadow : The Pact",
+        "ifNat": false,
+		"ground": "#00FF00"
       },
       {
-        "title": "Twisted Lands: Shadow Town",
-        "image": "https://usercontent1.hubstatic.com/6961620.jpg",
+        "titre": "Twisted Lands: Shadow Town",
+        "photo": "https://usercontent1.hubstatic.com/6961620.jpg",
 		"color": "#FFFFFF",
-        "text_size": "25",
-        "isLink": false,
-		"link_title": "",
+        "txt_size": "25",
+        "link": false,
+		"link_titre": "",
 		"setLink": "",
-        "image_link": "",
-        "text": "Dark Meadow : The Pact",
-        "isNative": false,
-		"background": "#AEDEE4"
+        "photo_link": "",
+        "txt": "Dark Meadow : The Pact",
+        "ifNat": false,
+		"ground": "#00FF00"
       }
-    ],
-	
-	  "itemsTwo": [
-     
-      {
-        "title": "The Battleground Guide 2021",
-        "image": "https://cdn.pixabay.com/photo/2020/10/22/06/22/ump-5675038_960_720.jpg",
-        "color": "#7A002A",
-        "text_size": "16",
-        "isLink": false,
-        "link_title": "Rate 5🌟",
-        "setLink": "https://play.google.com/store/apps/details?id=com.mission_sun.uc_rp",
-        "image_link": "",
-        "text": "\n\n⚡ If you are one of many new players taking their first steps in the unforgiving universe of Battle Royale, we invite you to discover our guide which will allow you to be more efficient on the field and will certainly serve you to win your games and finish in the TOP 1. \n\n⚡ Hiding out inbuildings might let you survive and be on the Top 10, but this way you will not get yourself improved. \n\n⚡ The trouble is that PUBG is surprisingly complex. There are a lot of details to know and learn along the way to be a pro player. Fortunately, we have spent some enough time on the game to find some Battlegrounds advanced tactics, tips, tricks, and strategies to help you on your mission for a chicken dinner.\n\n⚡  Please support us by a 5 stars rating and a beautiful comment ❤ ",
-        "isNative": false,
-        "background": "#8BC34A"
-      }, 
-     
-      {
-        "title": "UC & RP",
-        "image": "https://cdn.pixabay.com/photo/2021/08/24/15/00/pubg-mobile-6570917_960_720.jpg",
-        "color": "#7A002A",
-        "text_size": "16",
-        "isLink": false,
-        "link_title": "Get UC",
-        "setLink": "https://viral782.com/list/435514",
-        "image_link": "",
-        "text": "\n\n⚡ Taking up online surveys & completing offers is one of the easiest ways to get Free UC & RP for free. We make a giveaway every week for 20 to 30 of the top users with the most points, you can get points by completing offers. \n\n⚡ We reward users for completing online surveys with Google PlayStore credits, which can further be used to purchase UC & RP!",
-        "isNative": false,
-        "background": "#8BC34A"
-      },
-      {
-        "title": "Support us",
-        "image": "https://cdn.pixabay.com/photo/2016/03/11/08/02/usa-1249880_640.jpg",
-        "color": "#7A002A",
-        "text_size": "16",
-        "isLink": false,
-        "link_title": "Buy Me A Coffee ☕",
-        "setLink": "https://www.buymeacoffee.com/missionsun",
-        "image_link": "",
-        "text": "\n\n⚡This app is developed just by one developer, and it is still under improvement, I appologies for any errors or bugs and I promiss every unwanted error will be fixed as soon as possible \n\n⚡ Please support me by a 5 stars rating and a beautiful comment ❤ ",
-        "isNative": false,
-        "background": "#8BC34A"
-      }
-  ]
-  
+    ]
 
   }
 }
