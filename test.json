@@ -2,12 +2,12 @@
   "DCell": {
     "Ads": 
       {
-        "AdsCompany": "mediation",
+        "AdsCompany": "admob",
 
-        "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
-        "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-        "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
-	"AdmobRewarded": "ca-app-pub-3940256099942544/5224354917",
+        "AdmobBanner": "ca-app-pub-7161646055510540/2248272356",
+        "AdmobInterstitial": "ca-app-pub-7161646055510540/3996468292",
+        "AdmobNative": "ca-app-pub-7161646055510540/9405557705",
+	"AdmobRewarded": "ca-app-pub-7161646055510540/2092359687",
 
         "FbBanner": "808442213594935_808442870261536",
         "FbInterstitial": "808442213594935_808442976928192",
